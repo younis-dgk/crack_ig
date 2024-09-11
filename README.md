@@ -22,10 +22,6 @@ cd crack_ig
 python Xyz.py
 ````
 
-#### Screenshot!
-<img src="https://github.com/younis-dgk/Brute_Force/blob/main/images/Force.jpg" />
-
-
 <h3 align="left">Click below here for contact information:</h3>
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/younis-dgk)
