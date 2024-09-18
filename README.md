@@ -22,6 +22,10 @@ cd crack_ig
 python Xyz.py
 ````
 
+# Results image 💊💸
+<img src="https://github.com/younis-dgk/crack_ig/blob/main/1726635288482.png" />
+
+
 <h3 align="left">Click below here for contact information:</h3>
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/younis-dgk)
